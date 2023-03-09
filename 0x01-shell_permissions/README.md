@@ -1,1 +1,1 @@
-This script is switching user
+This script is is for shell permissions
